@@ -33,6 +33,12 @@ body{
     color:#333333;
     background-color: aqua;
 }
+div{
+    width: 1240px;
+    margin:0 auto 50px;
+    display: flex;
+    justify-content: space-between;
+}
 main{
     flex-basis: 920px;
     background-color: #ffffff;
@@ -41,18 +47,13 @@ main{
     box-shadow: 0px 0px 8px rgba(0,0,0,0.16);
 }
 aside{
-    flex-basis: 274px;
+    flex-basis: 284px;
 }
 aside nav {
     border-radius: 16px;
     background-color: #ffffff;
     box-shadow: 0px 0px 8px rgba(0,0,0,0.16);
     padding: 24px 28px;
+    margin-bottom:24px;
     
-}
-div{
-    width: 1240px;
-    margin:0 auto 50px;
-    display: flex;
-    justify-content: space-between;
 }
