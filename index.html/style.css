@@ -148,6 +148,9 @@ aside nav {
 .dialogr{
     display: flex;
     border: 10px;
-    
-  
+}
+.box-text-h4 {
+    text-align: center;
+    margin-top: -10px;
+    padding: 10px 0 0;
 }
