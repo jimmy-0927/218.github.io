@@ -24,14 +24,12 @@ h1{
     text-align: center;
     padding:20px 0px 16px;
 }
-.headjpg{
-    border-radius: 50%;
-}
+
 body{
     font-size:16px;
     font-family:'arial','Hiragino Sans','Meiryo','sans-serif';
     color:#333333;
-    background-color: #FFDC35;
+    background-color: 	#FFF4C1	;
 }
 .divoutside{
     width: 1380px;
@@ -92,6 +90,7 @@ aside nav {
     line-height:35px;
     padding-left: 5px;
     margin-bottom: 15px;
+    margin-top: 15px;
     
 
 }
@@ -123,6 +122,7 @@ aside nav {
     padding-left: 5px;
     margin-bottom: 15px;
     margin-left: 300px;
+    margin-top: 15px;
 
     
 }
